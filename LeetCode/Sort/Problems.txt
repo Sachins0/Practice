@@ -1,0 +1,6 @@
+1.  75. Sort Colors
+https://leetcode.com/problems/sort-colors/submissions/1115209202
+https://leetcode.com/problems/sort-colors/submissions/1115215963
+
+2.  324. Wiggle Sort II(https://leetcode.com/problems/wiggle-sort-ii/)
+yet to be solved

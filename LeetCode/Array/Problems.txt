@@ -1,0 +1,50 @@
+1.  1. Two Sum
+https://leetcode.com/problems/two-sum/submissions/1109656360
+
+2.  26. Remove Duplicates from Sorted Array
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1110219926
+
+3.  66. Plus One
+https://leetcode.com/problems/plus-one/submissions/1107415622
+
+4.  88. Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/submissions/1110225381
+https://leetcode.com/problems/merge-sorted-array/submissions/1110228754
+https://leetcode.com/problems/merge-sorted-array/submissions/1110331219
+
+5.  136. Single Number
+https://leetcode.com/problems/single-number/submissions/1110611263
+https://leetcode.com/problems/single-number/submissions/1110611697
+https://leetcode.com/problems/single-number/submissions/1110611828
+
+6.  283. Move Zeroes
+https://leetcode.com/problems/move-zeroes/submissions/1114393656
+
+7.  15. 3Sum(Solve Again by sets and maps)
+https://leetcode.com/problems/3sum/submissions/1114431444
+https://leetcode.com/problems/3sum/submissions/1114442189
+
+8.  33. Search in Rotated Sorted Array
+https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1112909811
+https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1114599120
+
+9.  34. Find First and Last Position of Element in Sorted Array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1114867620
+
+10. 48. Rotate Image
+https://leetcode.com/problems/rotate-image/submissions/1108905000
+https://leetcode.com/problems/rotate-image/submissions/1108905478
+https://leetcode.com/problems/rotate-image/submissions/1108907395
+
+11. 54. Spiral Matrix
+https://leetcode.com/problems/spiral-matrix/submissions/1113814829
+https://leetcode.com/problems/spiral-matrix/submissions/1114635120
+
+12. 56. Merge Intervals
+https://leetcode.com/problems/merge-intervals/submissions/1114905999
+https://leetcode.com/problems/merge-intervals/submissions/1114908821
+
+13. 4. Median of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1114926513
+https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1114928635
+https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1115121020

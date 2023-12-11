@@ -1,0 +1,6 @@
+1.  162. Find Peak Element
+https://leetcode.com/problems/find-peak-element/submissions/1115651171
+
+2.  287. Find the Duplicate Number
+https://leetcode.com/problems/find-the-duplicate-number/submissions/1115656588
+(solve again by map and ll)

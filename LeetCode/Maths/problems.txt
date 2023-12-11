@@ -1,0 +1,39 @@
+1.  13. Roman to Integer(Attempt again after map)
+https://leetcode.com/problems/roman-to-integer/submissions/1107214209
+
+2.  66. Plus One
+https://leetcode.com/problems/plus-one/submissions/1107415622
+
+3.  69. Sqrt(x)
+https://leetcode.com/problems/sqrtx/submissions/1107638618
+
+4.  171. Excel Sheet Column Number
+https://leetcode.com/problems/excel-sheet-column-number/submissions/1108063384
+
+5.  326. Power of Three
+https://leetcode.com/problems/power-of-three/submissions/1108081471
+https://leetcode.com/problems/power-of-three/submissions/1108083981
+https://leetcode.com/problems/power-of-three/submissions/1108087324
+
+6.  7. Reverse Integer
+https://leetcode.com/problems/reverse-integer/submissions/1108099517
+
+7.  29. Divide Two Integers
+Yet to be fully solved
+
+8.  48. Rotate Image
+https://leetcode.com/problems/rotate-image/submissions/1108905000
+https://leetcode.com/problems/rotate-image/submissions/1108905478
+https://leetcode.com/problems/rotate-image/submissions/1108907395
+
+9.  50. Pow(x, n)
+https://leetcode.com/problems/powx-n/submissions/1108961967
+https://leetcode.com/problems/powx-n/submissions/1109036333
+
+10. 172. Factorial Trailing Zeroes
+https://leetcode.com/problems/factorial-trailing-zeroes/submissions/1109066137
+
+11. 371. Sum of Two Integers
+https://leetcode.com/problems/sum-of-two-integers/submissions/1109061379
+https://leetcode.com/problems/sum-of-two-integers/submissions/1109061718
+
