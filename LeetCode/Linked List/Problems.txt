@@ -1,0 +1,19 @@
+1.  21. Merge Two Sorted Lists
+https://leetcode.com/problems/merge-two-sorted-lists/submissions/1117912886
+
+2.  206. Reverse Linked List
+https://leetcode.com/problems/reverse-linked-list/submissions/1117921354
+https://leetcode.com/problems/reverse-linked-list/submissions/1117923275
+
+3.  2. Add Two Numbers
+https://leetcode.com/problems/add-two-numbers/submissions/1118074958
+
+4.  19. Remove Nth Node From End of List
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1118106542
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1118117115
+
+5.  237. Delete Node in a Linked List
+https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1118139668
+
+6.  328. Odd Even Linked List
+https://leetcode.com/problems/odd-even-linked-list/submissions/1118210006
