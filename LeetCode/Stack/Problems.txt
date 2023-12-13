@@ -1,0 +1,21 @@
+1.  20. Valid Parentheses
+https://leetcode.com/problems/valid-parentheses/submissions/1118583352
+
+2.  234. Palindrome Linked List
+https://leetcode.com/problems/palindrome-linked-list/submissions/1118605249
+https://leetcode.com/problems/palindrome-linked-list/submissions/1118635696
+
+3.  150. Evaluate Reverse Polish Notation
+https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1118652610
+https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1118666125
+https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1118669673
+
+4.  155. Min Stack
+https://leetcode.com/problems/min-stack/submissions/1118694813
+https://leetcode.com/problems/min-stack/submissions/1118698027
+
+5.  227. Basic Calculator II
+https://leetcode.com/problems/basic-calculator-ii/submissions/1118936429
+
+6.  84. Largest Rectangle in Histogram
+https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1118984171
