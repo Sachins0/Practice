@@ -1,0 +1,13 @@
+1.  17. Letter Combinations of a Phone Number
+    [i.](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1123925160)
+    [ii.](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1123934171)
+
+2.  46. Permutations
+    [i.](https://leetcode.com/problems/permutations/submissions/1123950799)
+
+3.  78. Subsets
+    [i.](https://leetcode.com/problems/subsets/submissions/1124012379)
+    [ii.](https://leetcode.com/problems/subsets/submissions/1124015251)
+
+4.  79. Word Search
+    [i.](https://leetcode.com/problems/word-search/submissions/1124098368)
