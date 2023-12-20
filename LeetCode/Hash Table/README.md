@@ -1,1 +1,1 @@
-(1. Two Sum)[https://leetcode.com/problems/two-sum/submissions/1109656360]
+[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1109656360)
